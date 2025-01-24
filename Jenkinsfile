@@ -18,9 +18,11 @@ pipeline {
                     "TaskOne" : {
                         echo 'task one job1'
                         echo 'task one job2'
+                    {,
                      "TaskOne" : {
                         echo 'task two job1'
                         echo 'task two job2'
+                    {
                         
                     
             }
