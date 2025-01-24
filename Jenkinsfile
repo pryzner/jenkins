@@ -23,7 +23,7 @@ pipeline {
                         echo 'task two job1'
                         echo 'task two job2'
                      }
-                        
+                     )   
                     
             }
         }
